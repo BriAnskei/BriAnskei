@@ -1,129 +1,26 @@
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=8B0000&height=90&section=header"/>
+<h1 align="center">Hi 👋, I'm Brian Gierza</h1>
+<h3 align="center">A passionate full stack developer from Philipines</h3>
 
-<div align="center">
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=30&pause=1000&color=8B0000&center=true&vCenter=true&width=700&lines=Welcome+to+My+Profile!;Hi+I'm+Brian+Gierza;Full+Stack+Developer+from+Philippines;I+Love+Building+Cool+Stuff" alt="Typing SVG" />
-</div>
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=nerverack&label=Profile%20views&color=0e75b6&style=flat" alt="nerverack" /> </p>
 
-<br>
+<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=nerverack" alt="nerverack" /></a> </p>
 
-<div align="center">
-    <img src="https://komarev.com/ghpvc/?username=nerverack&label=Profile%20Views&color=8B0000&style=for-the-badge" />
-</div>
+<p align="left"> <a href="https://twitter.com/" target="blank"><img src="https://img.shields.io/twitter/follow/?logo=twitter&style=for-the-badge" alt="" /></a> </p>
 
----
+- 📫 How to reach me **brianebrahim7@gmail.com**
 
-<details open>
-<summary align="center">
-<h2>🔥 About Me</h2>
-</summary>
+- ⚡ Fun fact **I love coding**
 
-<img align="right" alt="Coding" width="350" src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif"/>
+<h3 align="left">Connect with me:</h3>
+<p align="left">
+<a href="https://instagram.com/ebrahim.grza" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="ebrahim.grza" height="30" width="40" /></a>
+</p>
 
-### 👨‍💻 A little about me
+<h3 align="left">Languages and Tools:</h3>
+<p align="left"> <a href="https://getbootstrap.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg" alt="bootstrap" width="40" height="40"/> </a> <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a href="https://www.docker.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original-wordmark.svg" alt="docker" width="40" height="40"/> </a> <a href="https://expressjs.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original-wordmark.svg" alt="express" width="40" height="40"/> </a> <a href="https://www.figma.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" alt="figma" width="40" height="40"/> </a> <a href="https://firebase.google.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/firebase/firebase-icon.svg" alt="firebase" width="40" height="40"/> </a> <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://www.java.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> <a href="https://jestjs.io" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/jestjsio/jestjsio-icon.svg" alt="jest" width="40" height="40"/> </a> <a href="https://www.linux.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/> </a> <a href="https://www.mongodb.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" width="40" height="40"/> </a> <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a> <a href="https://nodejs.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="40" height="40"/> </a> <a href="https://www.photoshop.com/en" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/photoshop/photoshop-line.svg" alt="photoshop" width="40" height="40"/> </a> <a href="https://postman.com" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" alt="postman" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> <a href="https://reactjs.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/> </a> <a href="https://redis.io" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/redis/redis-original-wordmark.svg" alt="redis" width="40" height="40"/> </a> <a href="https://tailwindcss.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg" alt="tailwind" width="40" height="40"/> </a> <a href="https://www.typescriptlang.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" alt="typescript" width="40" height="40"/> </a> </p>
 
-- 🎓 College student & passionate programmer  
-- 💻 Full Stack Developer from the Philippines  
-- 🚀 Currently learning advanced backend & mobile development  
-- 🐳 Interested in Docker, DevOps, and scalable systems  
-- 📱 Building React Native & Laravel projects  
-- ⚡ Fun fact: I love coding  
+<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=nerverack&show_icons=true&locale=en&layout=compact" alt="nerverack" /></p>
 
-</details>
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=nerverack&show_icons=true&locale=en" alt="nerverack" /></p>
 
----
-
-<details open>
-<summary align="center">
-<h2>🌐 Connect With Me</h2>
-</summary>
-
-<div align="center">
-
-<a href="https://instagram.com/ebrahim.grza">
-<img src="https://skillicons.dev/icons?i=instagram" height="50"/>
-</a>
-
-<a href="mailto:brianebrahim7@gmail.com">
-<img src="https://skillicons.dev/icons?i=gmail" height="50"/>
-</a>
-
-<a href="https://github.com/nerverack">
-<img src="https://skillicons.dev/icons?i=github" height="50"/>
-</a>
-
-</div>
-
-</details>
-
----
-
-<details open>
-<summary align="center">
-<h2>⚒️ Languages & Tools</h2>
-</summary>
-
-<div align="center">
-
-<img src="https://skillicons.dev/icons?i=html,css,javascript,typescript,react,nodejs,express,php,laravel,python,java,mysql,mongodb,redis,docker,firebase,tailwind,bootstrap,figma,git,linux,bash,postman" />
-
-</div>
-
-</details>
-
----
-
-<details open>
-<summary align="center">
-<h2>📊 GitHub Statistics</h2>
-</summary>
-
-<div align="center">
-
-<img height="180em" src="https://github-readme-stats.vercel.app/api?username=nerverack&show_icons=true&theme=transparent&title_color=8B0000&icon_color=8B0000&text_color=ffffff&border_color=8B0000"/>
-
-<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=nerverack&layout=compact&theme=transparent&title_color=8B0000&text_color=ffffff&border_color=8B0000"/>
-
-</div>
-
-<br>
-
-<div align="center">
-
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=nerverack&theme=dark&ring=8B0000&fire=8B0000&currStreakLabel=8B0000&border=8B0000"/>
-
-</div>
-
-<br>
-
-<div align="center">
-
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=nerverack&bg_color=0d1117&color=8B0000&line=8B0000&point=ffffff&area=true&hide_border=true"/>
-
-</div>
-
-</details>
-
----
-
-<details open>
-<summary align="center">
-<h2>🏆 GitHub Trophies</h2>
-</summary>
-
-<div align="center">
-
-<img src="https://github-profile-trophy.vercel.app/?username=nerverack&theme=algolia&no-frame=true&no-bg=true&margin-w=10"/>
-
-</div>
-
-</details>
-
----
-
-<div align="center">
-
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=24&pause=1000&color=8B0000&center=true&vCenter=true&width=600&lines=Thanks+for+visiting!;Have+a+great+day!;See+you+again+👋" />
-
-</div>
-
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=8B0000&height=90&section=footer"/>
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=nerverack&" alt="nerverack" /></p>
