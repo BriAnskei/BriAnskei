@@ -1,0 +1,21 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 133.5 106.4" font-family="Consolas, Monaco, monospace">
+<rect width="100%" height="100%" fill="#0d1117"/>
+<g font-size="3.0">
+<text x="10" y="14.00" xml:space="preserve" fill="#39ff14">brian@gierza</text>
+<text x="10" y="18.80" xml:space="preserve" fill="#39ff14">-------------------------------------------------------------</text>
+<text x="10" y="23.60" xml:space="preserve" fill="#39ff14">OS ................ PhilippinesOS (Linux-based)</text>
+<text x="10" y="28.40" xml:space="preserve" fill="#39ff14">Uptime ............ since 2022, still compiling</text>
+<text x="10" y="33.20" xml:space="preserve" fill="#39ff14">Shell .............. zsh + oh-my-terminal</text>
+<text x="10" y="38.00" xml:space="preserve" fill="#39ff14">Editor ............. zed, nvim</text>
+<text x="10" y="42.80" xml:space="preserve" fill="#39ff14"></text>
+<text x="10" y="47.60" xml:space="preserve" fill="#39ff14">Languages.Web ...... JavaScript, TypeScript</text>
+<text x="10" y="52.40" xml:space="preserve" fill="#39ff14">Frameworks ......... React, Node.js (+ friends)</text>
+<text x="10" y="57.20" xml:space="preserve" fill="#39ff14">Hobbies ............ building things, breaking things</text>
+<text x="10" y="62.00" xml:space="preserve" fill="#39ff14">Fun Fact ........... I love coding</text>
+<text x="10" y="66.80" xml:space="preserve" fill="#39ff14"></text>
+<text x="10" y="71.60" xml:space="preserve" fill="#39ff14">-------------------------------------------------------------</text>
+<text x="10" y="76.40" xml:space="preserve" fill="#39ff14">Contact</text>
+<text x="10" y="81.20" xml:space="preserve" fill="#39ff14">-------------------------------------------------------------</text>
+<a href="mailto:brianebrahim7@gmail.com" target="_blank"><text x="10" y="86.00" xml:space="preserve" fill="#39ff14" text-decoration="underline">Email .............. brianebrahim7@gmail.com</text></a>
+<a href="https://www.linkedin.com/in/brian-gierza-053170323/" target="_blank"><text x="10" y="95.60" xml:space="preserve" fill="#39ff14" text-decoration="underline">LinkedIn ........... linkedin.com/in/brian-gierza-053170323</text></a>
+</g></svg>
